@@ -304,10 +304,10 @@
 @media(max-width:930px){
     .nav-bar{
         margin: auto;
-        gap: 80px;
+        gap: 60px;
     }
     .list-style{
-        gap: 40px;
+        gap: 30px;
     }
 .list-items{
     display: none; 
@@ -782,7 +782,7 @@ height: 1000px;
 
 .footer-content-flex{
     justify-content: flex-start;
-    gap: 40px;  
+    gap: 25px;  
 }
 .icons-flex{
     gap: 10px;
