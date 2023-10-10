@@ -524,7 +524,10 @@ footer{
 
 
 @media(max-width:660px){
-
+    .nav-bar{
+        margin: auto;
+        gap: 30px;
+    }
     .list-style{
         gap: 10px;
     }
