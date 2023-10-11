@@ -568,7 +568,7 @@ footer{
     .man{
         max-width: 330px;
         height: 300px;
-        margin: 80px 0 0 0;
+        margin: 132px 0 0 0;
     }
 
 
@@ -619,6 +619,13 @@ footer{
     .services-background{
         height: 1430px;
       }
+    .services-1 h2{
+        font-size: 23px;
+    }
+    .services-1 p{
+        font-size: 16px;
+        padding: 20px;
+    }
         
       .clients-services{
         max-width: 350px;
@@ -666,6 +673,17 @@ footer{
         max-width: 350px;
         padding: 0px;
     }
+    .team-work-text h2 {
+  font-size: 23px;
+  padding-left: 10px;
+    }
+    .team-work-text p {
+        font-size: 14px;
+        padding-left: 10px;
+          }
+          .team-work-text a {
+            padding-left: 10px;
+              }
     .image-team{
         max-width: 330px;
         height: auto;
